@@ -5,7 +5,7 @@ export default StyleSheet.create({
   container: {
     flex: 1,
     paddingHorizontal: 24,
-    paddingTop: Constants.statusBarHeight + 20
+    paddingTop: Constants.statusBarHeight + 20,
   },
 
   header: {
@@ -16,7 +16,7 @@ export default StyleSheet.create({
 
   headerText: {
     fontSize: 15,
-    color: "#737380"
+    color: "#737380",
   },
 
   headerTextBold: {
@@ -56,7 +56,7 @@ export default StyleSheet.create({
   incidentValue: {
     marginTop: 8,
     fontSize: 15,
-    marginBottom: 14,
+    marginBottom: 24,
     color: "#737380"
   },
 
